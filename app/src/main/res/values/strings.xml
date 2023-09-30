@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseApp</string>
+    <string name="messageWithLink">By continuing you agree to the <a href="https://6packmacros.com/terms-and-conditions/">Terms of Services</a> and <a href="https://6packmacros.com/privacy-policy/">Privacy Policy </a></string>
+</resources>
